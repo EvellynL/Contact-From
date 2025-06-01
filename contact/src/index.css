@@ -2,4 +2,9 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: 'Karla', sans-serif;
+}
+
+html {
+  background-color: hsl(186, 15%, 59%);
 }
